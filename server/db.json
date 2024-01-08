@@ -1,0 +1,68 @@
+{
+  "flags": [
+    {
+      "id":1,
+      "name": "Germany",
+      "population": "81,770,900",
+      "region": "Europe",
+      "capital": "Berlin",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/germany.svg"
+    },
+    {
+      "id":2,
+      "name": "USA",
+      "population": "323,947,000",
+      "region": "Americas",
+      "capital": "Washington, D.C.",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/usa.svg"
+    },
+    {
+      "id":3,
+      "name": "Brazil",
+      "population": "206,135,893",
+      "region": "Americas",
+      "capital": "Brasilia",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/brazil.svg"
+    },
+    {
+      "id":4,
+      "name": "Iceland",
+      "population": "334,300",
+      "region": "Europe",
+      "capital": "Reykjavík",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/iceland.svg"
+    },
+    {
+      "id":5,
+      "name": "Afghanistan",
+      "population": "27,657,145",
+      "region": "Asia",
+      "capital": "Kabul",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/afghanistan.svg"
+    },
+    {
+      "id":6,
+      "name": "Åland Islands",
+      "population": "28,875",
+      "region": "Europe",
+      "capital": "Mariehamn",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/aland_island.svg"
+    },
+    {
+      "id":7,
+      "name": "Albania",
+      "population": "2,886,026",
+      "region": "Europe",
+      "capital": "Tirana",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/albania.svg"
+    },
+    {
+      "id":8,
+      "name": "Algeria",
+      "population": "40,400,000",
+      "region": "Africa",
+      "capital": "Algiers",
+      "img":"https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/algeria.svg"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/main.css" />
+
+    <title> Slider </title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header_container">
+        <a href="#">
+          <h2 class="header_title">Where in the world?</h2>
+        </a>
+        <div class="theme">
+          <button class="mode" href="#">
+            <i class="fa-regular fa-moon"></i>
+            <!-- <img src="./img/half-moon-img.svg" alt="" /> -->
+            <p class="theme_title">Dark Mode</p>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    
+    <div class="contents">
+      <section class="search-container">
+        <label for="search"> <input id="search" type="search" name="search" placeholder="🔍 Search for a country…"> </label>
+        <select id="dropdown" name="dropdown">
+          <option value="region">Filter by Region</option>
+          <option value="Africa">Africa</option>
+          <option value="america">America</option>
+          <option value="asia">Asia</option>
+          <option value="europe">Europe</option>
+          <option value="oceania">Oceania</option>
+        </select>
+      </section>
+      <div class="container card_container"></div>
+    </div>
+
+    <!-- click >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+    <!-- <div class="back"> <i class="fa-solid fa-end"></i> </div>
+    <div class="click-container">
+      <div id="click-card_img">
+        <img class="click-image" src="https://raw.githubusercontent.com/developerdamirbek/countries/db564e8fd5f090e1f4fc15c5317e2d1dc745717b/img/germany.svg" alt="germany">
+      </div>
+      <div class="click-card">
+        <h3 class="click-card_title">Germany</h3>
+        <ul class="click-card_list">
+          <ul class="left">
+              <li class="card_text">Native Name: <span class="card_info_text">België</span></li>
+              <li class="card_text">Population: <span class="card_info_text">1,000,000</span></li>
+              <li class="card_text">Region: <span class="card_info_text">Europe</span></li>
+              <li class="card_text">Sub Region: <span class="card_info_text">Western Europe</span></li>
+              <li class="card_text">Capital: <span class="card_info_text">Brussels</span></li>
+          </ul>
+          <ul class="right">
+              <li class="card_text">Top Level Domain: <span class="card_info_text">.be</span></li>
+              <li class="card_text">Currencies: <span class="card_info_text">Euro</span></li>
+              <li class="card_text">Languages: <span class="card_info_text">Dutch, French, German</span></li>
+          </ul>
+        </ul>
+        <div class="btns">
+          <h3>Border Countries:</h3>
+          <button class="france">France</button>
+          <button class="germany">Germany</button>
+          <button class="netherlands">Netherlands</button>
+        </div>
+      </div>
+    </div> -->
+    <!-- click end >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+
+    <script src="./main.js"></script>
+  </body>
+</html>
